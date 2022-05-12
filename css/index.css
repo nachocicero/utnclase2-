@@ -1,0 +1,32 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(223, 56, 209);
+    height: 50px;
+    width: 90%;
+    border: 2px solid rgb(223, 56, 209);
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    }
+.segundo {color: azure;
+background-color: chartreuse;}
+#tercero {color: rgb(220, 223, 56);}
+
+main p { color: rgb(17, 158, 240);}
+
+p strong{ font-style: italic;}
+
+.fuerte {color:blue; }
+
+span { color: rgb(223, 56, 209);}
+
+a { text-decoration: none;
+    border:  1px solid black;
+    padding: 2px;
+    color: rgb(207, 24, 24);}
+
+div {   border: 1px solid black;
+        width: fit-content;
+    	padding: 2px;}
