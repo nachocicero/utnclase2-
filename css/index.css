@@ -22,10 +22,15 @@ p strong{ font-style: italic;}
 
 span { color: rgb(223, 56, 209);}
 
-a { text-decoration: none;
+ul { text-decoration: none;
     border:  1px solid black;
     padding: 2px;
     color: rgb(207, 24, 24);}
+
+    li { text-decoration: none;
+        border:  1px solid black;
+        padding: 2px;
+        color: rgb(207, 24, 24);}
 
 div {   border: 1px solid black;
         width: fit-content;
